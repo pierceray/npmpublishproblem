@@ -1,6 +1,6 @@
 {
   "name": "@pierceray/npmpublishproblem",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "Example publish issue with npm 5.4.x",
   "main": "index.js",
   "scripts": {
